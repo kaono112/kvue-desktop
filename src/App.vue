@@ -30,7 +30,7 @@ import { StyleBlack } from './window/style'
 import VueEvent from './mitt'
 
 export default {
-  name: 'App',
+  name: 'Desktop',
   components: {
     TopBar,
     WindowArea,

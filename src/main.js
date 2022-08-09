@@ -1,5 +1,3 @@
 import { createApp } from 'vue'
-import Desktop from './Desktop.vue'
-createApp(Desktop).mount('#app')
-
-export default Desktop
+import App from './App.vue'
+createApp(App).mount('#app')
